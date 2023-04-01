@@ -1,6 +1,6 @@
 from pytube import YouTube
-
-url = 'https://www.youtube.com/watch?v=tZ5FBBnHfm4&t=408s&ab_channel=Junferno'
+#put the link here
+url = ''
 my_video = YouTube(url)
 #thumbnail and title
 print(my_video.title)
